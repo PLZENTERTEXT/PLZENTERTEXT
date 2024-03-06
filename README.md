@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
-  <img src="https://img.shields.io/badge/こんにちわ_🦆?&color=DF73FF" height="35" />
+  <img src="https://img.shields.io/badge/こんにちわ_🦆-blue?&color=DF73FF" height="35" />
   <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" />
   <p></p>
 </div>
