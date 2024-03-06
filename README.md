@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
   <h2>こんにちわ！ My name is Shiau Huei 🦆</h2>
+  <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="notion logo"  />
   <p>CTF no sleep gang ᕕ( ᐛ )ᕗ</p>
+  <p></p>
 </div>
 
 
@@ -26,10 +28,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/676804326613844027">
-    <img src="https://img.shields.io/badge/Discord?logo=discord&logoColor=white&color=#5865F2" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&color=5865F2" height="35" alt="discord logo"  />
   </a>
   <a href="https://cybersec-blog-plzentertext.vercel.app/">
-    <img src="https://img.shields.io/badge/Cybersecurity_Blog-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Cybersecurity_Blog-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="notion logo"  />
   </a>
 </div>
 
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
+  <p></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
