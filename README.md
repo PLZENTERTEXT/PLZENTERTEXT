@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  <p></p>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/chang-shiau-huei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  <p></p>
   <h2>💻 Languages I use:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
