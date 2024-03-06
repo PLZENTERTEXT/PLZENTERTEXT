@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
-  ## こんにちわ！ My name is Shiau Huei 🦆
+  <h2>こんにちわ！ My name is Shiau Huei 🦆</h2>
   <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" />
   <p></p>
 </div>
 
 
 <div align="center">
+  <p></p>
   <p></p>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/chang-shiau-huei">
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  <p></p>
   <p></p>
   <h2>💻 Languages I use:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
