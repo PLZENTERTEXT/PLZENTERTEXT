@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  ### こんにちわ！ 👋
+  <h1>こんにちわ！ 👋</h1>
+  <\n>
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
   <h2 align="center">My name is Shiau Huei and I'm in the CTF no sleep gang ᕕ( ᐛ )ᕗ</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PLZENTERTEXT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
