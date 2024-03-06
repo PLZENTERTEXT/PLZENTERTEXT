@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <p></p>
   <img src="https://img.shields.io/badge/こんにちわ_🦆-blue?&color=DF73FF" height="35" />
   <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" />
-  <img src="https://streak-stats.demolab.com?user=plzentertext&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <p></p>
+  <img src="https://streak-stats.demolab.com?user=plzentertext&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
