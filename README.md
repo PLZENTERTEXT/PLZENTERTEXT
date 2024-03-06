@@ -17,13 +17,11 @@ Here are some ideas to get you started:
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
   <p></p>
   <img src="https://img.shields.io/badge/こんにちわ_🦆-blue?&color=DF73FF" height="35" />
-  <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" /> 
+  <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" />
+  <img src="https://streak-stats.demolab.com?user=plzentertext&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
 <div align="center">
-  <p></p>
-  <p></p>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/chang-shiau-huei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
@@ -38,8 +36,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <p></p>
-  <p></p>
   <h2>💻 Languages I use:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
