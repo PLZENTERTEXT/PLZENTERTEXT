@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
-  <h2>こんにちわ！ My name is Shiau Huei 🦆</h2>
+  ## こんにちわ！ My name is Shiau Huei 🦆
   <img src="https://img.shields.io/badge/CTF_no_sleep_gang_ᕕ(_ᐛ_)ᕗ-blue?&color=40E0D0" height="35" />
   <p></p>
 </div>
@@ -56,5 +56,3 @@ Here are some ideas to get you started:
   <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PLZENTERTEXT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/plzentertext/plzentertext/output/snake.svg" alt="Snake animation" />
