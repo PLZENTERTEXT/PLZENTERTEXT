@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>こんにちわ！ 👋</h1>
   <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEyaHljb3NocHc0ZWFkOG9zZmhuN3Z2czczODUweGhvY3BmOXN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzovTGH4Z8rvG23bW9/giphy.gif"  />
-  <h2>My name is Shiau Huei 🦆</h2>
+  <h2>こんにちわ！ My name is Shiau Huei 🦆</h2>
   <p>CTF no sleep gang ᕕ( ᐛ )ᕗ</p>
 </div>
 
@@ -24,10 +23,10 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/chang-shiau-huei">
-    <img src="https://img.shields.io/badge/LinkedIn?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/676804326613844027">
-    <img src="https://img.shields.io/badge/Discord?logo=discord&logoColor=white&color=7289DA" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord?logo=discord&logoColor=white&color=#5865F2" height="35" alt="discord logo"  />
   </a>
   <a href="https://cybersec-blog-plzentertext.vercel.app/">
     <img src="https://img.shields.io/badge/Cybersecurity_Blog-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="gmail logo"  />
