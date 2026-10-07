@@ -24,13 +24,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>📫 How to reach me:</h2>
+  <a href="https://plzentertext.com">
+    <img src="https://img.shields.io/badge/Portfolio-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="notion logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/chang-shiau-huei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0077B5" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/676804326613844027">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&color=5865F2" height="35" alt="discord logo"  />
   </a>
-  <a href="https://cybersec-blog-plzentertext.vercel.app/">
+  <a href="https://plzentertext.com/blog">
     <img src="https://img.shields.io/badge/Cybersecurity_Blog-blue?logo=notion&logoColor=white&color=00BFFF" height="35" alt="notion logo"  />
   </a>
 </div>
